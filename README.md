@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="./docs/banner.png" width="100%" alt="Banner do projeto Coleção de Vinis">
+</div>
+
+<div align="center">
 
 # C O L E Ç Ã O　D E　V I N I S　//　J A V A
 
